@@ -1,0 +1,39 @@
+main{
+    background-color: rgb(216, 216, 216);
+    padding: 1rem;
+    width: 60vw;
+    margin: 5rem auto;
+    height: 50vh;
+    border-radius: 10px;
+    box-shadow: 2px 3px 1px rgba(0, 0, 0, 0.425);
+    
+}
+
+.center_pergunta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    margin: 1rem auto;
+    width: 90%;
+    height: 100%;
+
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 1rem;
+    font-size: 2rem;
+    font-family: sans-serif;
+
+}
+input{
+    width: 45%;
+    margin: 0px 5px;
+
+}
