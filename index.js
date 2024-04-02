@@ -7,7 +7,7 @@ class Botão {
             e.preventDefault()
             console.log(e)
             this._botão.style.position ="relative" 
-             this._botão.style.left = parseInt(Math.random()*(55 - 0)-0)+"vw"
+             this._botão.style.left = parseInt(Math.random()*(45 - 0)-0)+"vw"
             this._botão.style.top = parseInt(Math.random()*(55  -0) - 0)+"vh"
 
         })
